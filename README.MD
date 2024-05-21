@@ -1,1 +1,1 @@
-This is the test project for testing working with github
+This is the test project for working with github
